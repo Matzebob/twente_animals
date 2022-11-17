@@ -1,4 +1,4 @@
-hello world
+Hello World
 
 title: "The best paper about animals"
 
